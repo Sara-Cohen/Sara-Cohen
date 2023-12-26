@@ -8,7 +8,7 @@
             self.name = "Sara Cohen"
             self.role = "Computer Science Student"
             self.projects = ["Study Projects", "Self-directed Projects"]
-            self.skills = ["Python", "Java", "C++", "Web Development"]
+            self.skills = ["Python", "Java", "C++","Sql", "Web Development"]
             self.learning_ability = "High"
     
         def introduce(self):
